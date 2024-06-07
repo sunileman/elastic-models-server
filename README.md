@@ -2,6 +2,10 @@
 
 This repository contains the Dockerfile and Kubernetes manifests to build and deploy an Elastic model server using Python's built-in HTTP server. The server serves pre-trained model files over HTTP.
 
+## Image
+
+The image is available here: `sunmanreg.azurecr.io/elastic-model-server:latest`. If you choose to build the image, follow the directions below.
+
 ## Prerequisites
 
 - Docker
